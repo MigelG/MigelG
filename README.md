@@ -1,16 +1,17 @@
 ### Всем привет, меня зовут Михаил 👋
+<br>
 
-<!--
-**MigelG/MigelG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Я начинающий фронтенд-разработчик
+<br>
 
-Here are some ideas to get you started:
+#### Сейчас я:
+* Делаю дипломную работу в Я.Практикуме
+* Участвую в совместном проекте студентов Я.Практикума для Liza Alert
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Я использую:
+![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
+![BEM](https://img.shields.io/badge/BEM-000000?style=for-the-badge&logo=bem)
