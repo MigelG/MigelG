@@ -5,6 +5,7 @@
 ### Сейчас я:
 * В поисках первой работы
 * Участвую в совместном проекте студентов Я.Практикума для Liza Alert
+* Изучаю TypeScript и Redux
 
 ### Я использую:
 ![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5)
